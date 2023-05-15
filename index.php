@@ -26,7 +26,7 @@
 				<img alt="" class="img-fluid rounded-circle" src="/assets/img/profile-img.jpg">
 				<h1 class="text-light"><a href="index.html">Morten Nordbye</a></h1>
 				<div class="social-links mt-3 text-center">
-					<a class="facebook" href="https://www.facebook.com/morten.nordbye"><i class="bx bxl-facebook"></i></a> <a class="instagram" href="https://www.instagram.com/morten.nordbye/"><i class="bx bxl-instagram"></i></a> <a class="github" href="https://github.com/Morten03Nordbye"><i class="bx bxl-github"></i></a> <a class="linkedin" href="https://www.linkedin.com/in/morten-victor-nordbye-325bb71bb/"><i class="bx bxl-linkedin"></i></a>
+					<a class="github" href="https://github.com/Morten03Nordbye"><i class="bx bxl-github"></i></a> <a class="linkedin" href="https://www.linkedin.com/in/morten-victor-nordbye-325bb71bb/"><i class="bx bxl-linkedin"></i></a>
 				</div>
 			</div>
 			<nav class="nav-menu navbar" id="navbar">
@@ -40,9 +40,6 @@
 					<li>
 						<a class="nav-link scrollto" href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a>
 					</li>
-					<li>
-						<a class="nav-link scrollto" href="#contact"><i class="bx bx-envelope"></i> <span>Contact</span></a>
-					</li>
 				</ul>
 			</nav><!-- .nav-menu -->
 		</div>
@@ -50,8 +47,7 @@
 	<!-- ======= Hero Section ======= -->
 	<section class="d-flex flex-column justify-content-center align-items-center" id="hero">
 		<div class="hero-container" data-aos="fade-in">
-			<h1>Morten Nordbye</h1>
-			<p>You should hire me because <span class="typed" data-typed-items="i have ambison, i want to learn, i have the willpower to adapt, i am a teamplayer"></span></p>
+			<h1>Morten Victor Nordbye</h1>
 		</div>
 	</section><!-- End Hero -->
 	<main id="main">
@@ -195,8 +191,7 @@
 		<section class="resume" id="resume">
 			<div class="container">
 				<div class="section-title">
-					<!-- <!==           <h2>Resume</h2> -->
-					--&gt;
+				<h2>Resume</h2>
 				</div>
 				<div class="row">
 					<div class="col-lg-6" data-aos="fade-up">
@@ -243,66 +238,6 @@
 				</div>
 			</div>
 		</section><!-- End Resume Section -->
-		<!-- ======= Contact Section ======= -->
-		<section class="contact" id="contact">
-			<div class="container">
-				<div class="section-title">
-					<h2>Contact</h2>
-				</div>
-				<div class="row" data-aos="fade-in">
-					<div class="col-lg-5 d-flex align-items-stretch">
-						<div class="info">
-							<div class="address">
-								<i class="bi bi-geo-alt"></i>
-								<h4>Location:</h4>
-								<p>Oslo, Norway</p>
-							</div>
-							<div class="email">
-								<i class="bi bi-envelope"></i>
-								<h4>Email:</h4>
-								<p>morten03nordbye@gmail.com</p>
-							</div>
-							<div class="phone">
-								<i class="bi bi-phone"></i>
-								<h4>Call:</h4>
-								<p>+47 979 02 931</p>
-							</div><iframe allowfullscreen frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOfBn8mFuQUYRmh4j019gkn4&key=AIzaSyD26jQqn7ztIfjPlDITi4hxV_3opg0lCgQ" style="border:0; width: 100%; height: 290px;"></iframe>
-						</div>
-					</div>
-					<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-						<form action="forms/contact.php" class="php-email-form" method="post" role="form">
-							<div class="row">
-								<div class="form-group col-md-6">
-									<label for="name">Your Name</label> <input class="form-control" id="name" name="name" required="" type="text">
-								</div>
-								<div class="form-group col-md-6">
-									<label for="name">Your Email</label> <input class="form-control" id="email" name="email" required="" type="email">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="name">Subject</label> <input class="form-control" id="subject" name="subject" required="" type="text">
-							</div>
-							<div class="form-group">
-								<label for="name">Message</label> 
-								<textarea class="form-control" name="message" required="" rows="10"></textarea>
-							</div>
-							<div class="my-3">
-								<div class="loading">
-									Loading
-								</div>
-								<div class="error-message"></div>
-								<div class="sent-message">
-									Your message has been sent. Thank you!
-								</div>
-							</div>
-							<div class="text-center">
-								<button type="submit">Send Message</button>
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</section><!-- End Contact Section -->
 	</main><!-- End #main -->
 	<!-- Vendor JS Files -->
 	<script src="/assets/vendor/aos/aos.js">
@@ -323,7 +258,6 @@
 	</script> 
 	<script src="/assets/vendor/waypoints/noframework.waypoints.js">
 	</script> <!-- Template Main JS File -->
-	 
 	<script src="/assets/js/main.js">
 	</script>
 </body>
