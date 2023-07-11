@@ -30,7 +30,7 @@
         <div class="profile">
           <img alt="" class="img-fluid rounded-circle" src="/assets/img/profile-img.jpg" />
           <h1 class="text-light">
-            <a href="index.php"> Morten Nordbye </a>
+            <a href="index.php"> Morten Victor Nordbye </a>
           </h1>
           <div class="social-links mt-3 text-center">
             <a class="github" href="https://github.com/Morten03Nordbye">
@@ -281,22 +281,18 @@
           </div>
           <div class="row">
             <div class="col-lg-6" data-aos="fade-up">
-              <h3 class="resume-title"> Sumary </h3>
-              <div class="resume-item pb-0">
-                <h4> Morten Victor Nordbye </h4>
+              <h3 class="resume-title"> Licenses & Certifications </h3>
+              <div class="resume-item">
+              <h4> AWS Certified Cloud Practitioner </h4>
+                <h5> Issued Sep 2021 </h5>
                 <p>
-                  <em> As a recent addition to the IT industry, I am eager to learn and grow in my career. I have experience working with both Windows and Linux systems and am dedicated to staying current with the latest industry trends and advancements. I am a hardworking and driven individual with a passion for problem-solving and implementing effective solutions. In my free time, I enjoy staying active and training. I am excited to begin this new chapter in my career and look forward to the opportunities and challenges ahead. </em>
+                  <em> Issued by Amazon Web Services (AWS) </em>
                 </p>
-                <ul>
-                  <li> Oslo, Norway </li>
-                  <li> +47 979 02 931 </li>
-                  <li> morten03nordbye@gmail.com </li>
-                </ul>
               </div>
               <h3 class="resume-title"> Education </h3>
               <div class="resume-item">
                 <h4> Trade certificate as a skilled ICT service operator </h4>
-                <h5> 2023 </h5>
+                <h5> Issued Aug 2023 </h5>
                 <p>
                   <em> The Royal Norwegian Ministry of Education and Research and Basefarm/Orange Business, Oslo </em>
                 </p>
@@ -325,7 +321,7 @@
                 <h4>System Consultant</h4>
                 <h5> Aug 2023 - Present </h5>
                 <p>
-                  <em>Orange Business, Oslo</em>
+                  <em>Orange Business Services, Oslo</em>
                 </p>
                 <p>Collaborated closely with customers and mission-critical solutions, leveraging a diverse range of technologies to optimize performance and problem-solving.</p>
                 <ul>
