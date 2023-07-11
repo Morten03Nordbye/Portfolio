@@ -131,7 +131,7 @@
                     <li>
                       <i class="bi bi-chevron-right"></i>
                       <strong> Degree: </strong>
-                      <span> ICT Service </span>
+                      <span> Trade certificate as a skilled ICT service operator </span>
                     </li>
                     <li>
                       <i class="bi bi-chevron-right"></i>
@@ -165,7 +165,7 @@
               <h4 class="title">
                 <a href=""> Fitness </a>
               </h4>
-              <p class="description"> I'm a big fan of fitness. It makes me feel strong and healthy, and I enjoy the challenges that come with working out. Regular exercise helps me maintain a positive mindset and reduce stress. Plus, it's a great way to meet new people and have fun while being healthy. Overall, fitness has been a positive experience for me. </p>
+              <p class="description"> Fitness is something I'm truly passionate about. It's not just about staying in shape, but also about feeling empowered and maintaining my overall well-being. Each workout brings new challenges that I eagerly embrace, pushing myself to become stronger and healthier. Engaging in regular exercise not only keeps me physically fit, but also uplifts my spirits and helps me manage stress effectively. Moreover, fitness has opened doors to meaningful connections and enjoyable experiences. For me, it's been a truly transformative and positive journey.. </p>
             </div>
             <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon">
@@ -174,7 +174,7 @@
               <h4 class="title">
                 <a href=""> Politics </a>
               </h4>
-              <p class="description"> I have a passion for politics and enjoy learning about different political systems, ideologies, and current events. I think it's important to be informed about political issues in order to participate in democracy and make informed decisions. I also find discussions about politics engaging and stimulating. Overall, I think having an interest in politics is a rewarding pursuit. </p>
+              <p class="description"> Politics captivates my interest like no other subject. The intricate web of political systems, diverse ideologies, and ongoing current events never fails to intrigue me. Understanding politics is vital for active participation in democracy and making well-informed choices. Engaging in political discussions sparks my intellect and keeps me engaged in the world around me. I find immense satisfaction in staying well-versed in political affairs and believe that nurturing this passion is an intellectually fulfilling pursuit. </p>
             </div>
             <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon">
@@ -183,16 +183,16 @@
               <h4 class="title">
                 <a href=""> Gaming </a>
               </h4>
-              <p class="description"> I am a big fan of gaming and have found it to be a great way to unwind and recharge. It's a fun and engaging activity that allows me to challenge myself and exercise my problem-solving skills. I find that playing games helps me relax and reduce stress, improving my productivity and overall well-being. Additionally, gaming can be a social activity, fostering teamwork and collaboration among colleagues. </p>
+              <p class="description"> Gaming is an activity I enjoy when I have some spare time. It provides a unique opportunity for relaxation and rejuvenation. Engaging in games allows me to temporarily escape from the demands of everyday life and immerse myself in thrilling and entertaining experiences. It's not about being a hardcore gamer for me, but rather about the enjoyment and occasional challenge it brings. Gaming helps me unwind, releasing stress and providing a refreshing break for my mind. </p>
             </div>
             <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon">
                 <i class="bi bi-terminal"></i>
               </div>
               <h4 class="title">
-                <a href=""> Cyber Security </a>
+                <a href=""> philosophy </a>
               </h4>
-              <p class="description"> I am passionate about cyber security and find it to be a fascinating and important field. I enjoy learning about the latest technologies and best practices for protecting against cyber attacks and securing digital systems. I think strong cyber security is crucial in today's world, and working in the field allows me to use my skills and knowledge to make a positive impact. Overall, I think being interested in cyber security is a rewarding pursuit. </p>
+              <p class="description"> Philosophy, the pursuit of wisdom and understanding, captivates my mind like no other discipline. It delves into profound questions about existence, knowledge, ethics, and the nature of reality. Engaging with philosophical ideas broadens my perspective and challenges my preconceptions, encouraging me to think critically and analytically. Philosophy invites me to ponder the mysteries of life, contemplate the complexities of human nature, and explore the intricacies of moral and ethical dilemmas. Through philosophical inquiry, I seek to unravel the threads that weave together our shared human experience and find meaning in the vast tapestry of existence. Philosophy is an intellectual journey that enriches my understanding of the world and allows me to engage with the timeless questions that have shaped human thought for centuries. </p>
             </div>
             <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon">
@@ -201,7 +201,7 @@
               <h4 class="title">
                 <a href=""> Homelabing </a>
               </h4>
-              <p class="description"> I am a big fan of homelabbing and find it to be a fun and rewarding hobby. I enjoy setting up and experimenting with different technologies and configurations, and learning about new tools and techniques in the process. Homelabbing allows me to gain hands-on experience and explore my interests and curiosity in a safe and controlled environment. Additionally, homelabbing can be a social activity, as there are many online communities of like-minded individuals who share tips, advice, and experiences. Overall, I think homelabbing is a fulfilling and enjoyable hobby. </p>
+              <p class="description"> Homelabing is an incredibly enjoyable and rewarding hobby that I wholeheartedly embrace. It grants me the freedom to experiment with various technologies and configurations, continually expanding my knowledge and skills. Through this hands-on exploration, I satisfy my curiosity and delve deeper into my areas of interest. Moreover, homelabing provides a gateway to a vibrant online community, where like-minded individuals share invaluable tips, advice, and experiences. The joy and fulfillment I derive from homelabing are unparalleled, making it a truly worthwhile and engaging pursuit </p>
             </div>
             <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
               <div class="icon">
@@ -232,7 +232,7 @@
                 </div>
               </div>
               <div class="progress">
-                <span class="skill"> Windows Server <i class="val"> 80%% </i>
+                <span class="skill"> Windows Server <i class="val"> 80% </i>
                 </span>
                 <div class="progress-bar-wrap">
                   <div aria-valuemax="100" aria-valuemin="0" aria-valuenow="80" class="progress-bar" role="progressbar"></div>
@@ -262,7 +262,7 @@
                 </div>
               </div>
               <div class="progress">
-                <span class="skill"> Public cloud(Azure and AWS) <i class="val"> 50%% </i>
+                <span class="skill"> Public cloud(Azure and AWS) <i class="val"> 50% </i>
                 </span>
                 <div class="progress-bar-wrap">
                   <div aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="progress-bar" role="progressbar"></div>
@@ -295,29 +295,37 @@
               </div>
               <h3 class="resume-title"> Education </h3>
               <div class="resume-item">
-                <h4> IKT-servicefag </h4>
-                <h5> 2020 - 2021 </h5>
+                <h4> Trade certificate as a skilled ICT service operator </h4>
+                <h5> 2023 </h5>
                 <p>
-                  <em> Kuben yrkesarena, Oslo </em>
+                  <em> The Royal Norwegian Ministry of Education and Research and Basefarm/Orange Business, Oslo </em>
                 </p>
-                <p> I completed a year-long education in ICT service, in order to gain more knowledge about how to provide effective and efficient support for information and communication technology systems. Through this education, I learned about the principles and practices of ICT service, including how to diagnose and troubleshoot technical problems, how to communicate effectively with users, and how to maintain and improve ICT systems and services. I also had the opportunity to gain hands-on experience with Linux and Windows servers, and practice my skills in real-world scenarios. </p>
+                <p>Passed with Distinction</p>
               </div>
               <div class="resume-item">
-                <h4> Elektro yrkesfaglig utdanning </h4>
+                <h4> ICT Service Operator  </h4>
+                <h5> 2020 - 2021 </h5>
+                <p>
+                  <em> Kuben High School, Oslo </em>
+                </p>
+                <p>I completed a year-long education in ICT service, in order to gain more knowledge about how to provide effective and efficient support for information and communication technology systems. Through this education, I learned about the principles and practices of ICT service, including how to diagnose and troubleshoot technical problems, how to communicate effectively with users, and how to maintain and improve ICT systems and services. I also had the opportunity to gain hands-on experience with Linux and Windows servers, and practice my skills in real-world scenarios.</p>
+              </div>
+              <div class="resume-item">
+                <h4> Vocational Education in Electrical Studies </h4>
                 <h5> 2019 - 2020 </h5>
                 <p>
-                  <em> Ullern videregående skole, Oslo </em>
+                  <em> Ullern High School, Oslo </em>
                 </p>
-                <p> I completed a year-long education in electro. Through this program, I learned about the principles of electricity and electronics. I also had the opportunity to gain hands-on experience and build my own circuits and devices. The education has given me a deeper understanding of the fundamental concepts and principles that underlie technology. I am excited to apply this knowledge in my future studies and career. </p>
+                I completed a year-long education in electro. Through this program, I learned about the principles of electricity and electronics. I also had the opportunity to gain hands-on experience and build my own circuits and devices. The education has given me a deeper understanding of the fundamental concepts and principles that underlie technology. I am excited to apply this knowledge in my future studies and career.</p>
               </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 class="resume-title"> Experience </h3>
               <div class="resume-item">
                 <h4>System Consultant</h4>
-                <h5> Aug 2021 - Aug 2023 </h5>
+                <h5> Aug 2023 - Present </h5>
                 <p>
-                  <em>Orange Business Services, Oslo</em>
+                  <em>Orange Business, Oslo</em>
                 </p>
                 <p>Collaborated closely with customers and mission-critical solutions, leveraging a diverse range of technologies to optimize performance and problem-solving.</p>
                 <ul>
@@ -346,7 +354,7 @@
                 <h4> Programming Course Holder </h4>
                 <h5> 2018 - 2019 </h5>
                 <p>
-                  <em> Oslo kommune, Oslo </em>
+                  <em> Oslo Municipality, Oslo </em>
                 </p>
                 <p> Teaching children about high-level block-based visual programming language </p>
               </div>
