@@ -190,7 +190,7 @@
                 <i class="bi bi-terminal"></i>
               </div>
               <h4 class="title">
-                <a href=""> philosophy </a>
+                <a href=""> Philosophy </a>
               </h4>
               <p class="description"> Philosophy, the pursuit of wisdom and understanding, captivates my mind like no other discipline. It delves into profound questions about existence, knowledge, ethics, and the nature of reality. Engaging with philosophical ideas broadens my perspective and challenges my preconceptions, encouraging me to think critically and analytically. Philosophy invites me to ponder the mysteries of life, contemplate the complexities of human nature, and explore the intricacies of moral and ethical dilemmas. Through philosophical inquiry, I seek to unravel the threads that weave together our shared human experience and find meaning in the vast tapestry of existence. Philosophy is an intellectual journey that enriches my understanding of the world and allows me to engage with the timeless questions that have shaped human thought for centuries. </p>
             </div>
