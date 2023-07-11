@@ -314,12 +314,18 @@
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 class="resume-title"> Experience </h3>
               <div class="resume-item">
-                <h4> Operations Technician Apprentice </h4>
+                <h4>System Consultant</h4>
                 <h5> Aug 2021 - Aug 2023 </h5>
                 <p>
-                  <em> Basefarm/Orange Business, Oslo </em>
+                  <em>Orange Business Services, Oslo</em>
                 </p>
-                <p> Operational oversight of private and public cloud systems, focusing on hardware to application layers within the OSI model. Demonstrated leadership in managing teams and applied ITIL framework in operations. </p>
+                <p>Collaborated closely with customers and mission-critical solutions, leveraging a diverse range of technologies to optimize performance and problem-solving.</p>
+                <ul>
+                  <li>Utilized scripting and automation to streamline processes and improve efficiency.</li>
+                  <li>Managed and maintained Linux/Windows servers, ensuring smooth operations.</li>
+                  <li>Participated in team and company events, fostering a positive and collaborative work environment.</li>
+                  <li>Stayed up-to-date with emerging technologies and proactively solved problems.</li>
+                </ul>
               </div>
               <div class="resume-item">
                 <h4> Operations Technician Apprentice </h4>
@@ -340,7 +346,7 @@
                 <h4> Programming Course Holder </h4>
                 <h5> 2018 - 2019 </h5>
                 <p>
-                  <em> Oslo kommune </em>
+                  <em> Oslo kommune, Oslo </em>
                 </p>
                 <p> Teaching children about high-level block-based visual programming language </p>
               </div>
@@ -380,7 +386,7 @@
         </div>
       </section>
       <!-- End Contact Section -->
-      <div style="height: 190px;"></div>
+      <div style="height: 369px;"></div>
       <!-- Empty div for whitespace -->
     </main>
     <!-- End #main -->
