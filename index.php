@@ -30,7 +30,7 @@
         <div class="profile">
           <img alt="" class="img-fluid rounded-circle" src="/assets/img/profile-img.jpg" />
           <h1 class="text-light">
-            <a href="index.html"> Morten Nordbye </a>
+            <a href="index.php"> Morten Nordbye </a>
           </h1>
           <div class="social-links mt-3 text-center">
             <a class="github" href="https://github.com/Morten03Nordbye">
@@ -87,15 +87,15 @@
         <div class="container">
           <div class="section-title">
             <h2> About </h2>
-            <p> As a recent addition to the IT industry, I am eager to learn and grow in my career. I have experience working with both Windows and Linux systems and am dedicated to staying current with the latest industry trends and advancements. I am a hardworking and driven individual with a passion for problem-solving and implementing effective solutions. In my free time, I enjoy staying active and training. I am excited to begin this new chapter in my career and look forward to the opportunities and challenges ahead. </p>
+            <p> With extensive hands-on experience in managing large customer environments and infrastructure, I have a solid understanding of a variety of technologies, including Windows and Linux systems, VMware, SAN storage, Cisco firewalls, BIG-IP load balancers, and Solidserver DNS. This diverse skill set enables me to confidently navigate complex technical landscapes and provide comprehensive solutions. In addition to my professional pursuits, I have a strong passion for calisthenics, which not only keeps me physically active but also instills discipline and perseverance. I am dedicated to staying updated with the latest industry trends and advancements, continuously expanding my skills to deliver effective solutions. With a meticulous and problem-solving mindset, I approach challenges with determination and strive for excellence. I am genuinely excited to embrace this new chapter in my career, eagerly anticipating the opportunities for growth and development that lie ahead. </p>
           </div>
           <div class="row">
             <div class="col-lg-4" data-aos="fade-right">
               <img alt="" class="img-fluid" src="/assets/img/profile-img.jpg" />
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3> Apprentice </h3>
-              <p class="fst-italic"> As an apprentice at Basefarm/Orange Business Services, I have the opportunity to work with both Linux and Windows systems as part of our private cloud offering. This allows me to gain valuable experience and knowledge in two of the most widely used operating systems in the industry. Working in a private cloud environment presents unique challenges and opportunities, and I am constantly learning and growing as a result. I am grateful for the opportunity to be a part of this dynamic and innovative team. </p>
+              <h3> System Consultant </h3>
+              <p class="fst-italic"> As a System Consultant at Orange Business, I have the privilege of collaborating closely with our customers and mission-critical solutions. Leveraging a diverse range of technologies, including scripting, Kubernetes, AWS/Azure, databases, VmWare, Ansible, Linux/Windows, and automation and orchestration, I optimize performance and solve complex problems within our private cloud offering. This hands-on experience allows me to gain valuable expertise in cutting-edge technologies and develop a deep understanding of their application in a private cloud environment. The dynamic nature of this role not only presents unique challenges but also offers abundant opportunities for continuous learning, personal growth, and staying at the forefront of emerging technologies. </p>
               <div class="row">
                 <div class="col-lg-6">
                   <ul>
@@ -359,7 +359,7 @@
         <div class="container">
           <div class="section-title">
             <h2>Contact</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>If you have any questions or would like to get in touch, feel free to reach out to me. I'm always excited to connect with new people and discuss potential opportunities. Please use the provided contact information below to get in contact with me. I'll get back to you as soon as possible.</p>
           </div>
           <div class="row" data-aos="fade-in">
             <div class="col-lg-5 d-flex align-items-stretch">
@@ -372,7 +372,7 @@
                 <div class="email">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>morten03nordbye@gmail.com</p>
+                  <p>morten@nordbye.it</p>
                 </div>
                 <div class="phone">
                   <i class="bi bi-phone"></i>
