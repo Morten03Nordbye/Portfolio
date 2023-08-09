@@ -247,5 +247,27 @@
       mirror: false
     })
   });
+  /**
+   * Calculate and display the age
+   */
+  function calculateAge(dobString) {
+    const dob = new Date(dobString);
+    const today = new Date();
+    let age = today.getFullYear() - dob.getFullYear();
+
+    // Adjust age if birth date hasn't occurred this year yet
+    const m = today.getMonth() - dob.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < dob.getDate())) {
+        age--;
+    }
+
+    return age;
+  }
+
+  const ageElement = select('#age');
+  if (ageElement) {
+    ageElement.textContent = calculateAge('2003-08-18');
+  }
+
 
 })()
