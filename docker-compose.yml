@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  portfolio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: myportfolio:latest
+    container_name: Portfolio
+    ports:
+      - "8080:80"

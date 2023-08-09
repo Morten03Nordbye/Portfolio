@@ -1,22 +1,14 @@
-# Start with the official Nginx image as our base.
-FROM nginx:latest
+# Use the official Nginx image as a base
+FROM nginx:alpine
 
-# Install necessary packages
-RUN apt-get update && apt-get install -y \
-    php-fpm \
-    php-mysql
+# Set the working directory in the container
+WORKDIR /usr/share/nginx/html
 
-# Remove the default Nginx configuration file
-RUN rm /etc/nginx/conf.d/default.conf
+# Copy local files to the container
+COPY ./Source/Site-Files/ .
 
-# Add our Nginx configuration file
-COPY ./nginx.conf /etc/nginx/conf.d/
-
-# Copy our PHP files
-COPY ./Portfolio-main /var/www/html
-
-# Expose port 80 for the Nginx web server.
+# Expose the port Nginx is running on
 EXPOSE 80
 
-# Start Nginx and PHP-FPM
+# Run Nginx
 CMD ["nginx", "-g", "daemon off;"]
