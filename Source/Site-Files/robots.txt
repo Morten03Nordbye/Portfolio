@@ -1,0 +1,6 @@
+# Allow all bots to crawl the site
+User-agent: *
+Disallow:
+
+# Specify the sitemap location
+Sitemap: https://nordbye.it/sitemap.xml
